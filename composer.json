@@ -21,7 +21,9 @@
         "doctrine/annotations": "1.*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.4.6"
+        "phpunit/phpunit": "^5.4.6",
+        "wimg/php-compatibility":    "*",
+        "simplyadmire/composer-plugins" : "@dev"
     },
     "autoload": {
         "psr-4": {
